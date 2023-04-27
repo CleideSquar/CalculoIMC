@@ -38,3 +38,13 @@ Sinta-se à vontade para contribuir com este projeto criando issues ou pull requ
 
 #### Licença:
 Este projeto está licenciado sob a Licença MIT.
+
+## Atividade elabora para o curso da SoulCode
+
+1- (input-basic-lwc)
+. Crie um componente LWC, que contenha os campos nome, peso e altura. 
+. Passe os dados para variáveis individuais da classe (nome, peso e altura).
+. crie uma função ativada através do onCLick, que exiba o calculo do imc no componente como resultado.
+
+**Dica:**
+crie uma var na classe para receber o calculo, e mostre ela no componente.
